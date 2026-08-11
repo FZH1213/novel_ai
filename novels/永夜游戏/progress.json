@@ -1,0 +1,59 @@
+{
+  "title": "永夜游戏",
+  "genre": "无限流 + 系统流 + 悬疑",
+  "target_reader": "男频，18-35岁",
+  "current_chapter": 3,
+  "total_planned": 200,
+  "word_count": 8400,
+  "status": "连载中",
+  "last_updated": "2025-08-11",
+  "world_building": "已完成",
+  "characters": {
+    "protagonist": "已完成 - 顾言",
+    "partner": "已完成 - 江晚吟",
+    "mentor": "已完成 - 陆沉",
+    "antagonist": "已完成 - 沈墨渊",
+    "missing_friend": "已完成 - 苏微雨"
+  },
+  "outline": "已完成总大纲",
+  "dungeon_001": "迷雾庄园设定已完成",
+  "chapters": {
+    "chapter_001": {
+      "title": "深夜的书",
+      "word_count": 2400,
+      "status": "已完成",
+      "created_date": "2025-08-11"
+    },
+    "chapter_002": {
+      "title": "迷雾中的庄园",
+      "word_count": 2800,
+      "status": "已完成",
+      "created_date": "2025-08-11",
+      "key_events": [
+        "顾言进入庄园",
+        "首次使用天赋[静默之眼]",
+        "发现苏微雨的符号线索",
+        "江晚吟首次登场",
+        "接触六名嫌疑人"
+      ]
+    },
+    "chapter_003": {
+      "title": "沉默的证人",
+      "word_count": 3200,
+      "status": "已完成",
+      "created_date": "2025-08-11",
+      "key_events": [
+        "询问六名嫌疑人",
+        "发现陈医生手术刀缺失",
+        "张玉兰承认看到黑影",
+        "王管家隐瞒翻找遗嘱",
+        "顾言展现推理能力"
+      ]
+    }
+  },
+  "next_steps": [
+    "写作第四章",
+    "开始搜查各个房间",
+    "江晚吟再次登场"
+  ]
+}
